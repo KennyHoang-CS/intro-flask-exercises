@@ -1,5 +1,6 @@
 from app import app
 import unittest
+"""The testing class for calc operations"""
 
 class TestCalculator(unittest.TestCase):
     def setUp(self):
